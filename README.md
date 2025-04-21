@@ -1,5 +1,5 @@
 ## 👁️ Hello, welcome to my profile! 🗯
-I am a student @ Conestoga College
+learning bit by bit ✔️
 
 <!--
 **A-De-Angelis/A-De-Angelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
