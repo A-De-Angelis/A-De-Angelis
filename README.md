@@ -1,5 +1,5 @@
 ## 👁️ Hello, welcome to my profile! 🗯
-learning bit by bit ✔️
+We made it ✔️
 
 <!--
 **A-De-Angelis/A-De-Angelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
